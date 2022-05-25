@@ -38,12 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'cadlogapp',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    
-    #'cadlogapp.apps.cadlogappConfig',
+    "cadlogapp.apps.cadlogappConfig",
     
 ]
 
